@@ -6,7 +6,7 @@ Logic: Convert to float.
 If temp > 35.0: "Status: CRITICAL - Cooling required."
 Else if temp > 25.0: "Status: WARNING - Monitor closely."
 Else: "Status: OK."
-Goal: Practice elif chains.
+Goal: Practice elif chains...
 '''
 
 print("\n----- Temperature Safety Monitor -----\n")

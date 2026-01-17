@@ -3,7 +3,7 @@ Scenario: A form asks for a phone number.
 Input: A phone number string (e.g., " 123 456 7890 ").
 Logic: Strip spaces. Check if the length of the string is exactly 10 using len().
 Output: If length is 10, print "Valid Number." If not, "Invalid Number."
-Goal: Practice len() and string methods in logic.
+Goal: Practice len() and string methods in logic...
 '''
 print("\n---- 'Silent' Data Cleaner ----\n")
 

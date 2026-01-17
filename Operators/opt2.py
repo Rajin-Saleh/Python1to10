@@ -4,7 +4,7 @@ Scenario: A store gives a 10% discount if the purchase is over $500.
 Input: Total price (string).
 Logic: Convert to float. If price > 500, calculate the new total (price * 0.9).
 Output: "Final price: $[amount]" (formatted to 2 decimal places).
-Goal: Practice math operators and if/else.
+Goal: Practice math operators and if/else...
 '''
 print("----- E-commerce Discount Engine -----\n")
 price = float(input("Your purchased amount: "))
